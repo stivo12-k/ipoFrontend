@@ -64,7 +64,7 @@ const About = () => {
           {/* Content */}
           <div className="text-center md:text-left" data-aos="fade-left">
             <h2 className="font-heading text-4xl md:text-5xl font-bold mb-6 text-primary">
-              About Me
+              Tentang Nyaku
             </h2>
             <h3 className="font-heading text-2xl md:text-3xl font-semibold mb-4 text-gray-900 dark:text-white">
               {aboutData.name}

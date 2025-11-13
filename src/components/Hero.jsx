@@ -45,18 +45,18 @@ const Hero = () => {
           {/* Left Column - Text */}
           <div className="text-center md:text-left" data-aos="zoom-in">
             <h1 className="font-heading text-5xl md:text-6xl lg:text-7xl font-bold mb-6 text-gray-900 dark:text-white">
-              Hi, I'm Stivo{' '}
+              Hi, Aku Stivo {' '}
               <span className="inline-block animate-bounce">👋</span>
             </h1>
             <p className="font-body text-xl md:text-2xl mb-4 text-gray-700 dark:text-gray-300">
-              I'm a{' '}
+              Aku Adalah{' '}
               <span className="text-primary font-semibold">
                 {displayText}
                 <span className="animate-pulse">|</span>
               </span>
             </p>
             <p className="font-body text-lg md:text-xl mb-8 text-gray-600 dark:text-gray-400 max-w-2xl">
-              who loves building fun and functional interfaces.
+              yang senang membangun antarmuka yang menyenangkan dan mudah digunakan
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <button

@@ -31,7 +31,7 @@ const Footer = () => {
           {/* Contact Form */}
           <div data-aos="fade-in-up">
             <h2 className="font-heading text-4xl md:text-5xl font-bold mb-8 text-primary">
-              Get In Touch
+              Ayo Ngobrol!
             </h2>
             <form onSubmit={handleSubmit} className="space-y-6">
               <div>
@@ -49,7 +49,7 @@ const Footer = () => {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 rounded-lg border-2 border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white font-body focus:border-primary dark:focus:border-secondary focus:outline-none transition-colors duration-300"
-                  placeholder="Your Name"
+                  placeholder="Nama kamu"
                 />
               </div>
               <div>
@@ -67,7 +67,7 @@ const Footer = () => {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-3 rounded-lg border-2 border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white font-body focus:border-primary dark:focus:border-secondary focus:outline-none transition-colors duration-300"
-                  placeholder="your.email@example.com"
+                  placeholder="email mu (email@abcd.com"
                 />
               </div>
               <div>
@@ -85,14 +85,14 @@ const Footer = () => {
                   required
                   rows="5"
                   className="w-full px-4 py-3 rounded-lg border-2 border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-900 text-gray-900 dark:text-white font-body focus:border-primary dark:focus:border-secondary focus:outline-none transition-colors duration-300 resize-none"
-                  placeholder="Your message here..."
+                  placeholder="Yapping Di sini..."
                 ></textarea>
               </div>
               <button
                 type="submit"
                 className="w-full px-8 py-4 bg-primary hover:bg-secondary text-white font-body font-semibold rounded-2xl shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 ease-in-out"
               >
-                Send Message
+                Kirim
               </button>
             </form>
           </div>
@@ -158,7 +158,7 @@ const Footer = () => {
             </div>
             <div className="text-center md:text-left">
               <p className="font-body text-sm text-gray-600 dark:text-gray-400">
-                © 2025 Stivo Kaunang. All rights reserved.
+                © 2025 George Stivo Kaunang. All rights reserved.
               </p>
             </div>
           </div>

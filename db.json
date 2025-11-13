@@ -1,7 +1,7 @@
 {
   "about": {
-    "name": "Stivo Kaunang",
-    "description": "I'm a passionate web developer with a love for creating beautiful, functional, and user-friendly interfaces. With expertise in modern web technologies, I enjoy turning complex problems into simple, elegant solutions. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.",
+    "name": "George Stivo Kaunang",
+    "description": "Saya adalah seorang pengembang web yang bersemangat dengan hal-hal yang baru dan menarik dalam menciptakan antarmuka yang indah, fungsional, dan mudah digunakan. Dengan keahlian dalam teknologi web modern, saya menikmati proses mengubah masalah yang kompleks menjadi solusi yang sederhana dan elegan. Ketika tidak sedang menulis kode, saya senang menjelajahi teknologi baru, berkontribusi pada proyek open-source, atau berbagi pengetahuan dengan komunitas pengembang.",
     "photo": "/profile.jpg"
   },
   "skills": [
@@ -35,19 +35,19 @@
   "projects": [
     {
       "id": 1,
-      "title": "E-Commerce Platform",
-      "description": "A full-stack e-commerce platform built with React and Node.js, featuring user authentication, product management, and payment integration.",
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+      "title": "Mobile App Deve",
+      "description": "Melalui setiap proyek, saya belajar bagaimana mengubah ide menjadi aplikasi nyata yang membantu pengguna dalam kehidupan sehari-hari.",
+      "image": "/mooip.jpeg",
       "demo": "https://example.com",
-      "github": "https://github.com/jordan/ecommerce"
+      "github": "https://github.com/stivo12-k/finalapp"
     },
     {
       "id": 2,
       "title": "Task Management App",
-      "description": "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
+      "description": "Aplikasi manajemen tugas kolaboratif dengan pembaruan waktu nyata, fitur seret dan lepas (drag-and-drop), serta dukungan kolaborasi tim.",
       "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
       "demo": "https://example.com",
-      "github": "https://github.com/jordan/taskmanager"
+      "github": "https://github.com/stivo12-k/taskmanager"
     }
    
   ]

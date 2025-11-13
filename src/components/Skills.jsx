@@ -48,7 +48,7 @@ const Skills = () => {
           className="font-heading text-5xl md:text-6xl font-bold text-center mb-10 md:mb-16 text-primary"
           data-aos="zoom-in-up"
         >
-          My Tech Stack
+          Teknologi yang Saya Gunakan
         </h2>
         <div
           className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-10"
